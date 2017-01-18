@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/csv-splitter",
+    "name": "CSV-Splitter",
+    "addr": "http://localhost:21000/health"
+  },
+  {
+    "path": "/file-uploader",
+    "name": "file-uploader",
+    "addr": "http://localhost:20097"
+  }
+]
